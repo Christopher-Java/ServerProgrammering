@@ -1,0 +1,11 @@
+Sat Apr 29 14:59:34 CEST 2023 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 50000
+----------------------------------------------------------------
+Sat Apr 29 14:59:40 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0187-cd18-e91c-ffffe3efae57 
+on database directory C:\Users\MagicWonders\Documents\JAVA22\Java23VT\ServerProgrammering\InlämningsUppgifter\Hibernate\db-derby\bin\hibernate  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 
+Loaded from file:/C:/Users/MagicWonders/Documents/JAVA22/Java23VT/ServerProgrammering/Inl%c3%a4mningsUppgifter/Hibernate/db-derby/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=11.0.16.1+1
+user.dir=C:\Users\MagicWonders\Documents\JAVA22\Java23VT\ServerProgrammering\InlämningsUppgifter\Hibernate\db-derby\bin
+derby.system.home=C:\Users\MagicWonders\Documents\JAVA22\Java23VT\ServerProgrammering\InlämningsUppgifter\Hibernate\db-derby\bin
+Database Class Loader started - derby.database.classpath=''
